@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Caller</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_interval">Select time interval for calls</string>
+    <string name="start">Start Making Calls</string>
+    <string name="stop">Stop Making Calls</string>
+    <string name="phone_number">Enter number to call</string>
+</resources>
